@@ -4,6 +4,16 @@
 
 [데모버전](https://raoun4136.github.io/chatbot_lab/)
 
+## How To Use
+
+### Go To Link
+
+[Link - chatbot_lab](https://raoun4136.github.io/chatbot_lab/)
+
+### Active Chrome Extension
+
+Use [Ignore X-Frame headers](https://chrome.google.com/webstore/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) to by-pass proxy for `studio.code.org`
+
 ## Getting Started
 
 ### Installing
@@ -41,10 +51,6 @@ npm run start
 ```
 npm run deploy
 ```
-
-## Deployment
-
-[Github Actions](https://raoun4136.github.io/chatbot_lab/)
 
 ## Built With
 
