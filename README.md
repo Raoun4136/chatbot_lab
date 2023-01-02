@@ -38,6 +38,12 @@ then module install
 npm install
 ```
 
+### Dialogflow AgentId
+
+change `config/df.sample.js` to `config/df.js`
+
+and write down `your df Agent Id`
+
 ### Starting
 
 `In localhost`
